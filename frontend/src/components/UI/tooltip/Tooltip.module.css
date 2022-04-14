@@ -1,0 +1,11 @@
+.Tooltip {
+    position: fixed;
+    left: 0;
+    top: 0;
+    color: white;
+    background-color: black;
+    border: 1px solid #F7D377;
+    padding: 4px 6px;
+    font-size: 14px;
+    width: 320px;
+}
